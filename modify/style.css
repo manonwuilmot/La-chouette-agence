@@ -696,8 +696,8 @@ p {
     color: #FFFFFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
-    font-size: 16px;
-    font-weight: 700;
+    font-size: 2rem;
+    font-weight: 900;
 }
 
 .social {
@@ -1066,6 +1066,11 @@ h4 {
 ul{
     list-style-type: none;
     padding-left: 0;
+}
+label{
+    font-size : 1.5rem;
+    font-weight: 700;
+    color: rgb(83, 83, 83);
 }
 
 
